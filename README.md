@@ -14,3 +14,4 @@
   - set number of leds: `#define NUM_LEDS 100`
   - set data pin: `#define DATA_PIN 2`
   - set strip type: `#define STRIP_TYPE WS2812B` (see <a href='https://github.com/FastLED/FastLED/wiki/Basic-usage'>FastLED basic usage</a>)
+- compile and upload to board
